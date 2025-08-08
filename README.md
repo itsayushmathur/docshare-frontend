@@ -8,4 +8,4 @@
 - Grid & list file views
 - Full-stack integration (React frontend + Spring Boot backend)
 
-For Authentication: Using Clert Authenticator
+For Authentication: Using Clerk Authenticator
