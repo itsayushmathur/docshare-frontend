@@ -22,7 +22,7 @@ const HeroSection = ({ openSignIn, openSignUp }) => {
                   onClick={() => openSignUp()}
                   className="flex items-center px-6 py-3 border border-transparent text-base font-medium rounded-md
 				   text-white bg-purple-500 hover:bg-purple-600 md:py-4 md:text-lg md:px-10 transition-all duration-200 
-				   shadow-lg hover:shadow-xl"
+				   shadow-lg hover:shadow-xl cursor-pointer"
                 >
                   Get Started
                 </button>
@@ -30,7 +30,7 @@ const HeroSection = ({ openSignIn, openSignUp }) => {
                   onClick={() => openSignIn()}
                   className="flex items-center justify-center px-6 py-3 border border-gray-300 text-base 
 				  font-medium rounded-md text-gray-700 bg-white hover:bg-gray-50 md:py-4 md:text-lg md:px-10 
-				  transition-all duration-200 shadow-md hover:shadow-lg"
+				  transition-all duration-200 shadow-md hover:shadow-lg cursor-pointer"
                 >
                   Sign In
                 </button>

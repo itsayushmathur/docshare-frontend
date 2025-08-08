@@ -7,3 +7,5 @@
 - Clerk authentication to manage users
 - Grid & list file views
 - Full-stack integration (React frontend + Spring Boot backend)
+
+For Authentication: Using Clert Authenticator
