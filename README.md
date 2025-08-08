@@ -1,5 +1,5 @@
-# Share Files Securely with
-## DocShare
+# DocShare
+## A simple file sharing web app built with React, Spring Boot and MongoDB
 - Upload, view, download & delete files
 - Public/private toggle for files
 - Share public files via links
