@@ -1,12 +1,14 @@
-import { UserButton } from '@clerk/clerk-react'
-import React from 'react'
+import React, {  } from "react";
+import DashboardLayout from "../layout/DashboardLayout";
 
 const Dashboard = () => {
   return (
-	<div>
-    <UserButton/>
-  </div>
-  )
-}
+    <DashboardLayout activeMenu="Dashboard">
+      <div>
+        Dashboard Content
+      </div>
+    </DashboardLayout >
+  );
+};
 
-export default Dashboard
+export default Dashboard;

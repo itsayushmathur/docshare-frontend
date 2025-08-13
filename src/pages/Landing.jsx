@@ -29,13 +29,13 @@ const Landing = () => {
       <FeaturesSection features={features} />
 
       {/* Pricing Section */}
-      <PricingSection pricingPlans={pricingPlans} />
+      <PricingSection pricingPlans={pricingPlans} openSignUp={openSignUp} />
 
       {/* Testiminals Section */}
       <TestimonialsSection testimonials={testimonials} />
 
       {/* CTA Section */}
-      <CTASection />
+      <CTASection openSignUp={openSignUp}/>
 
       {/* Footer */}
       <Footer />

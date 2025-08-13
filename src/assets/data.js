@@ -22,7 +22,7 @@ export const features = [
     iconColor: "text-green-500",
     title: "Secure Storage",
     description:
-      "Your files are encrypted and stored securely in our cloud infrastructure.",
+      "Your files are encrypted and stored securely in our doc infrastructure.",
   },
   {
     iconName: "Share2",
